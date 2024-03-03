@@ -38,8 +38,4 @@
 ## Stats
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashvinck&layout=compact&theme=radical&langs_count=5)
 
-
-
-<img alt="contribution" src="https://raw.githubusercontent.com/ashvinck/blob/output/github-contribution-grid-snake.svg" />
-
 <p>Keep Coding Folks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24"></p>
