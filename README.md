@@ -51,8 +51,8 @@ I'm **Ashvin C K**, a Software Developer driven by boundless passion and insatia
 ## 📊 Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashvinck&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvinck&layout=compact&theme=radical&langs_count=5" height="160" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=ashvinck&theme=radical" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvinck&layout=compact&theme=radical" height="160" alt="Top Languages" />
 </p>
 
 ---
