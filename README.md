@@ -1,10 +1,8 @@
 # Ashvin C K
 
-> **Backend architect. Performance fixer. Hardware wrangler. Rapid learner.**
-
 Mechanical Engineer by foundation, Software Engineer by trade. I pick up unfamiliar systems, trace their bottlenecks, and build reliable backend architectures, data pipelines, and hardware integrations from scratch.
 
-[LinkedIn](https://linkedin.com/in/ashvinck) • [Portfolio](https://ashvin.dev) • [Email](mailto:your-email@domain.com)
+[LinkedIn](https://linkedin.com/in/ashvinck) • [Email](mailto:ashvinck10@gmail.com)
 
 ---
 
@@ -79,10 +77,3 @@ Enterprise-grade multi-tenant architecture designed for structured access contro
 * **Data Layer:** Designed indexed **MongoDB** schemas to support high-throughput multi-tenant isolation.
 
 ---
-
-### 📊 GitHub Overview
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashvinck&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Ashvin's GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashvinck&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
-</p>
