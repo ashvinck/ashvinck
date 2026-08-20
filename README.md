@@ -57,23 +57,3 @@ Mechanical Engineer by foundation, Software Engineer by trade. I pick up unfamil
 </p>
 
 ---
-
-### 📦 Key Projects & Implementations
-
-#### [Pro-Chess Engine](https://github.com/ashvinck/pro-chess)
-Real-time multiplayer distributed chess application with server-side validation and AI integration.
-* **Concurrency & Sync:** Built asynchronous state synchronization and turn validation across active matches using **Socket.IO** and **Node.js**.
-* **Engine Integration:** Interfaced with the **Stockfish AI** engine for server-side match analysis and single-player engine modes.
-* **Scale:** Sustained real-time state consistency across 1,000+ active session loads.
-
-#### [Medical BLE Telemetry & Signal Pipeline](https://github.com/ashvinck)
-Native hardware interface and data processing pipeline built for clinical assessment.
-* **Protocol & Ingestion:** Built a native **Swift/iOS** app interfacing over **BLE** to stream raw sEMG and ROM telemetry from custom medical hardware.
-* **Signal Analysis:** Processed raw sensor arrays using **Python (NumPy, SciPy)**, applying digital filtering and feature extraction algorithms to convert noisy physical signals into clinical metrics.
-
-#### [Multi-Tenant RBAC Framework](https://github.com/ashvinck)
-Enterprise-grade multi-tenant architecture designed for structured access control.
-* **Security & Auth:** Engineered fine-grained role-based access control (**RBAC**), JWT token lifecycle management, and strict input sanitization layers.
-* **Data Layer:** Designed indexed **MongoDB** schemas to support high-throughput multi-tenant isolation.
-
----
