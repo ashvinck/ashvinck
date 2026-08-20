@@ -2,8 +2,6 @@
 
 Mechanical Engineer by foundation, Software Engineer by trade. I pick up unfamiliar systems, trace their bottlenecks, and build reliable backend architectures, data pipelines, and hardware integrations from scratch.
 
-[LinkedIn](https://linkedin.com/in/ashvinck) • [Email](mailto:ashvinck10@gmail.com)
-
 ---
 
 ### 🛠️ Technical Arsenal
