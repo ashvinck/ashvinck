@@ -48,13 +48,4 @@ I'm **Ashvin C K**, a Software Developer driven by boundless passion and insatia
 
 ---
 
-## 📊 Stats
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=ashvinck&theme=radical" height="160" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvinck&layout=compact&theme=radical" height="160" alt="Top Languages" />
-</p>
-
----
-
 <p>Keep Coding Folks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24" align="center" /></p>
